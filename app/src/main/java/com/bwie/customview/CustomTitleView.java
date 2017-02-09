@@ -113,6 +113,10 @@ public class CustomTitleView extends View {
 
     }
 
+    /**
+     * 生成随机数
+     * @return
+     */
     private String randomText()
     {
         Random random = new Random();
